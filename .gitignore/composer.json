@@ -1,0 +1,8 @@
+{
+    "name": "yandexapi/geocoding",
+    "description": "homework",
+    "type": "library",
+    "require": {
+        "yandex/geo": "v1.1.3"
+    }
+}
